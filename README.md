@@ -11,7 +11,8 @@ Easy to use
 ## Technology used
 HTML
 CSS
-JavaScript
+JavaScript (kursor.js)
+source img : unsplash
 ## How to use
 Open the website in your browser.
 You will see a photo gallery view.
