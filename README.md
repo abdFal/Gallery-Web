@@ -7,6 +7,7 @@ This is a responsive photo gallery website project. This project allows users to
 Responsive: the appearance of the website adjusts to the screen size of the user's device
 Displays a photo gallery
 Download photos easily
+Upload photos easily
 Easy to use
 ## Technology used
 HTML
